@@ -20,6 +20,10 @@
   ],
   "license": "MIT",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ledsun/form-exercise-server.git"
+  },
   "scripts": {
     "start": "babel-node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
